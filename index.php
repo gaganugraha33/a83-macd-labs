@@ -27,8 +27,8 @@
  </form>
  <?php
     $host = "submissionazure1db.database.windows.net";
-    $user = "gaganugraha";
-    $pass = "Rahasia123";
+    $user = "<gaganugraha>";
+    $pass = "<Rahasia123>";
     $db = "Registration";
 
     try {
