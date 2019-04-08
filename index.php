@@ -29,7 +29,7 @@
     $host = "submissionazure1db.database.windows.net";
     $user = "gaganugraha";
     $pass = "Rahasia123";
-    $db = "submissionazure1";
+    $db = "submissionazure1db";
     try {
         $conn = new PDO("sqlsrv:server = $host; Database = $db", $user, $pass);
         $conn->setAttribute( PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION );
