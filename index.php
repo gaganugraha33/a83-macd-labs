@@ -27,7 +27,7 @@
  </form>
  <?php
     $host = "https://submissionazure1.azurewebsites.net";
-    $user = "Gaganugraha";
+    $user = "gaganugraha";
     $pass = "Rahasia123";
     $db = "Registration";
     try {
